@@ -1,24 +1,13 @@
-## KeepAwakeWeb
-[My widget description]
+## Keep Awake Web
 
-## Features
-[feature highlights]
+Keep Awake Web is a widget designed to prevent phone displays from going into sleep mode while using web browsers on
+Android and iOS devices.
 
 ## Usage
-[step by step instructions]
 
-## Demo project
-[link to sandbox]
+To enable the Keep Awake functionality on your web pages, simply add the widget into the pages where you want to prevent
+the display from sleeping. The widget will take care of the rest.
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
 
-## Development and contribution
-
-1. Install NPM package dependencies by using: `npm install`. If you use NPM v7.x.x, which can be checked by executing `npm -v`, execute: `npm install --legacy-peer-deps`.
-1. Run `npm start` to watch for code changes. On every change:
-    - the widget will be bundled;
-    - the bundle will be included in a `dist` folder in the root directory of the project;
-    - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]
+[\[link to GitHub issues\]](https://github.com/hunter-koppen/keep-awake-web/issues)
